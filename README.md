@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate with **IT companies to create a new applications.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/EsakkiVinayagam008](https://github.com/EsakkiVinayagam008)
+- 👨‍💻 All of my projects are available at [https://github.com/EsakkiVinayagam008?tab=repositories](https://github.com/EsakkiVinayagam008?tab=repositories)
 
 - 📫 How to reach me **esakkivinayagam001@gamil.com**
 
